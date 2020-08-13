@@ -18,3 +18,6 @@ git status
 git log
 git diff
 git reset
+
+0813 周四
+淦！
